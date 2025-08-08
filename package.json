@@ -1,0 +1,14 @@
+{
+  "name": "carro-chatgpt-esp32",
+  "version": "1.0.0",
+  "description": "Servidor backend para carro ESP32 com ChatGpt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "openai": "^4.25.0"
+  }
+}
